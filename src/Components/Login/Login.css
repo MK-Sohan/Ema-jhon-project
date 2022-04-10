@@ -1,0 +1,61 @@
+.form-container {
+  width: 500px;
+  height: 600px;
+  background: #ffffff;
+  border: 1px solid #95a0a7;
+  box-sizing: border-box;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+
+  margin: 0 auto;
+}
+.form-title {
+  height: 42px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+}
+.input-group label {
+  display: block;
+
+  height: 20px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 20px;
+}
+.input-group input {
+  width: 415px;
+  height: 55px;
+  border: 1px solid #95a0a7;
+  box-sizing: border-box;
+  border-radius: 5px;
+  font-size: 21px;
+}
+.input-group {
+  margin-bottom: 20px;
+}
+
+.button {
+  width: 415px;
+  height: 55px;
+  background: rgba(255, 153, 0, 0.3);
+  border-radius: 5px;
+  border: none;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 21px;
+  line-height: 25px;
+  letter-spacing: 0.0015em;
+
+  color: #0e161a;
+  cursor: pointer;
+}
+.link {
+  text-decoration: none;
+  color: #ff9900;
+}

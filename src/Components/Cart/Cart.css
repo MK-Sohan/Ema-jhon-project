@@ -1,0 +1,33 @@
+.cart {
+  position: sticky;
+  top: 0;
+  padding: 30px 20px;
+}
+.button-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+  margin-top: 70px;
+}
+
+.btn1 {
+  width: 232px;
+  height: 48px;
+  background-color: #ff3030;
+  border: none;
+  border-radius: 6px;
+  font-weight: 700;
+  font-size: 20px;
+  color: white;
+}
+.btn2 {
+  width: 232px;
+  height: 48px;
+  background-color: #ff9900;
+  border: none;
+  border-radius: 6px;
+  font-weight: 700;
+  font-size: 20px;
+  color: white;
+  margin-top: 20px;
+}
